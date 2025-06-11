@@ -14,3 +14,6 @@ The library now includes the following tools:
 - **Electricity Planning Model (EPM)**: A long-term, multi-year, multi-zone capacity expansion and dispatch model. The objective of the model is to minimize the sum of fixed (including annualized capital costs) and variable generation costs (discounted for time) for all zones and all years considered.
 
 - **Representative Days**: A tool to determine representative days for a given year. The tool is based on previously developed GAMS code for the Poncelet algorithm. The objective has been to automate the process and make it more user-friendly.
+
+- test
+- 
